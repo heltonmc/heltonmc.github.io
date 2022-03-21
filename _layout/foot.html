@@ -1,9 +1,9 @@
 <!-- CONTENT ENDS HERE -->
-    {{ if hasmath }}
-        {{ insert foot_katex.html }}
-    {{ end }}
-    {{ if hascode }}
-        {{ insert foot_highlight.html }}
-    {{ end }}
+
+{{if cover}}
+{{else}}
+  {{insert main_foot.html}}
+{{end}}
+
   </body>
 </html>
