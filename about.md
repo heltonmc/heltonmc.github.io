@@ -7,7 +7,11 @@
 @def rss_pubdate = Date(2022, 3, 21)
 @def tags = ["about"]
 
-\fig{/assets/cover/cover.jpg}
+
+~~~
+<img class="avatar-image" src="/assets/cover/cover.png">
+~~~
+
 
 ## Bio
 
@@ -19,7 +23,7 @@ with a particular focus on the time-domain.
 I have a particular passion for developing and optimizing accurate and efficient numerical routines.
 * [LightPropagation.jl](https://github.com/heltonmc/LightPropagation.jl): _Modeling light transport in turbid media_
 * [Bessels.jl](https://github.com/heltonmc/Bessels.jl): _Algorithms for computation of Bessel's functions_
-* [InverseLaplace.jl](https://github.com/heltonmc/InverseLaplace.jl): _A collection of routines for numerical inversion of the Laplace transform_
+* [Laplace.jl](https://github.com/heltonmc/Laplace.jl): _A collection of routines for numerical inversion of the Laplace transform_
 
 ## Education
 
