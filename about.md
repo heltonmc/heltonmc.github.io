@@ -1,5 +1,14 @@
 # Michael Helton
 
+@def title = "About"
+@def hascode = true
+@def rss = "About me"
+@def rss_title = "About"
+@def rss_pubdate = Date(2022, 3, 21)
+@def tags = ["about"]
+
+\fig{/assets/cover/cover.jpg}
+
 ## Bio
 
 Hi! I am a [current PhD student](https://lsa.umich.edu/appliedphysics/people/graduate-students/michael-helton.html) in Applied Physics at the University of Michigan.
