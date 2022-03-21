@@ -26,7 +26,25 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://heltonmc.github.io/example/index.html</loc>
+    <lastmod>2022-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://heltonmc.github.io/menu1/index.html</loc>
+    <lastmod>2022-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://heltonmc.github.io/about/index.html</loc>
+    <lastmod>2022-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://heltonmc.github.io/menu4/index.html</loc>
     <lastmod>2022-03-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
