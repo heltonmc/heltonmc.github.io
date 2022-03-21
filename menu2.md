@@ -26,7 +26,12 @@ some people find that useful as it allows referring multiple times to the same l
 
 [some image]: https://upload.wikimedia.org/wikipedia/commons/9/90/Krul.svg
 
-* un-qualified code blocks are allowed and are julia by default, indented code blocks are not supported by default (and there support will disappear completely in later version)
+* un-qualified code blocks and indented code blocks are allowed and are julia by default
+
+    a = 1
+    b = a+1
+
+or
 
 ```
 a = 1
