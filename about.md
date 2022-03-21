@@ -28,12 +28,12 @@ I have a particular passion for developing and optimizing accurate and efficient
 ## Education
 
 **University of Michigan** \\
-PhD Candidate, Applied Physics, **2016-Present**
+_Doctor of Philosophy_, Applied Physics, **2016-Present**
 
 **The George Washington University** \\
-B.S. Biophysics, **2012-2016**
+_Bachelor of Science_, Biophysics, **2012-2016**
 
 ## Contact
 Michael Helton \\
 heltonmc@umich.edu \\
-Ann Arbor, MI
+Ann Arbor, Michigan, United States
