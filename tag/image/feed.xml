@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  Franklin Template  ]]>
+      <![CDATA[  Michael Helton  ]]>
     </title>
-    <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
+    <link> https://heltonmc.github.io/ </link>
     <description>
-      <![CDATA[  Example website using Franklin  ]]>
+      <![CDATA[  About and Blog  ]]>
     </description>
     <atom:link
-      href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
+      href="https://heltonmc.github.io/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -35,7 +35,7 @@
   
   
   <atom:author>
-    <atom:name>Septimia Zenobia</atom:name>
+    <atom:name>Michael Helton</atom:name>
   </atom:author>
         
 </item>
