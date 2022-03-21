@@ -7,11 +7,11 @@
 @def rss_pubdate = Date(2022, 3, 21)
 @def tags = ["about"]
 
-
 ~~~
-<img class="avatar-image" src="/assets/cover/cover.png">
+<center>
+<img src="/assets/cover/self.png">
+</center>
 ~~~
-
 
 ## Bio
 
