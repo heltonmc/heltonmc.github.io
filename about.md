@@ -16,14 +16,16 @@
 ## Bio
 
 Hi! I am a [current PhD student](https://lsa.umich.edu/appliedphysics/people/graduate-students/michael-helton.html) in Applied Physics at the University of Michigan.
-My research is on developing computational tools for modeling light transport in biological media from optical measurements such
-as [NIRS](https://en.wikipedia.org/wiki/Near-infrared_spectroscopy) and [DCS](https://en.wikipedia.org/wiki/Diffusing-wave_spectroscopy)
-with a particular focus on the time-domain.
+My research focuses on developing computational methods for modeling light transport in biological media from optical measurements such
+as [NIRS](https://en.wikipedia.org/wiki/Near-infrared_spectroscopy) and [DCS](https://en.wikipedia.org/wiki/Diffusing-wave_spectroscopy).
 
-I have a particular passion for developing and optimizing accurate and efficient numerical routines.
-* [LightPropagation.jl](https://github.com/heltonmc/LightPropagation.jl): _Modeling light transport in turbid media_
+I have a particular passion for developing and optimizing accurate and efficient numerical routines with particular interest on special mathematical functions. The following are projects that I have helped develop.
 * [Bessels.jl](https://github.com/heltonmc/Bessels.jl): _Algorithms for computation of Bessel's functions_
+* [LightPropagation.jl](https://github.com/heltonmc/LightPropagation.jl): _Modeling light transport in turbid media_
 * [Laplace.jl](https://github.com/heltonmc/Laplace.jl): _A collection of routines for numerical inversion of the Laplace transform_
+* [Struve.jl](https://github.com/gwater/Struve.jl): _Algorithms for computing Struve functions_
+
+I am currently seeking employment opportunites after I graduate in December 2022. I have extensive computational experience using Julia, C/C++, and Matlab with a focus on CPU optimization. Please [reach out](https://heltonmc.github.io/about/#contact) about any prospective job opportunities. 
 
 ## Education
 
