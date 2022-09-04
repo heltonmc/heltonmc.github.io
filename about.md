@@ -9,7 +9,7 @@
 
 ~~~
 <center>
-<img src="/assets/cover/self.png">
+<img src="/assets/cover/screenshot-modified.png ">
 </center>
 ~~~
 
